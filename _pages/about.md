@@ -35,7 +35,7 @@ Publications / Preprints
 [Paper](https://xianzhefan.github.io/files/chi24-240.pdf)
 [Video Preview](https://xianzhefan.github.io/files/chi24a-sub2702-cam-i21.mp4) -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 0px;">
-  <img src="https://xianzhefan.github.io/images/contextcam.png" alt="paper image" style="width: 300px; margin-right: 20px; margin-top: 50px;">
+  <img src="https://xianzhefan.github.io/images/contextcam.png" alt="paper image" style="width: 300px; margin-right: 20px; margin-top: 0px;">
   <div>
     <p><strong>Xianzhe Fan</strong>, Zihan Wu, Chun Yu, Fenggui Rao, Weinan Shi, and Teng Tu. 2024. <strong>ContextCam: Bridging Context Awareness with Creative Human-AI Image Co-Creation.</strong> In Proceedings of the CHI Conference on Human Factors in Computing Systems <em>(CHI ’24)</em>, May 11–16, 2024, Honolulu, HI, USA. ACM, New York, NY, USA, 17 pages. <a href="https://dl.acm.org/doi/full/10.1145/3613904.3642129">Website</a> <a href="https://xianzhefan.github.io/files/chi24-240.pdf">Paper</a> <a href="https://xianzhefan.github.io/files/chi24a-sub2702-cam-i21.mp4">Video Preview</a></p>
   </div>
