@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi! I am a junior undergraduate of the Tsien Engineering Excellence Program (TEEP) at Tsinghua University.
-Currently, I am fortunate to be advised by Professor [Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/), Dr. Weinan Shi, and Professor [Yuanchun Shi](https://www.cs.tsinghua.edu.cn/csen/info/1306/4332.htm) at [Pervasive Interaction Lab](https://pi.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University. 
+Currently, I am fortunate to be advised by Professor [Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/), Professor Weinan Shi, and Professor [Yuanchun Shi](https://www.cs.tsinghua.edu.cn/csen/info/1306/4332.htm) at [Pervasive Interaction Lab](https://pi.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University. 
 <!-- I am also honored to be advised by Professor [Hong Shen](https://www.andrew.cmu.edu/user/hongs/) in the Human-Computer Interaction Institute at Carnegie Mellon University. -->
 
 My research interests lie in the area of Human-Computer Interaction (HCI). 
