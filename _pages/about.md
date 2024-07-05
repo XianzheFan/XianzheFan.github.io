@@ -13,13 +13,13 @@ Currently, I am fortunate to be advised by Professor [Chun Yu](https://pi.cs.tsi
 <!-- I am also honored to be advised by Professor [Hong Shen](https://www.andrew.cmu.edu/user/hongs/) in the Human-Computer Interaction Institute at Carnegie Mellon University. -->
 
 My research interests lie in the area of Human-Computer Interaction (HCI). 
-**I develop systems that reshape how users *collaborate* with AIGC and *evaluate* it, and uncover interesting *insights*. I hope to utilize algorithms to achieve *alignment* between AI and human intentions.**
+**I develop systems that reshape how users *collaborate* with AIGC, and uncover interesting *insights*. I hope to utilize algorithms to achieve *alignment* between AI and human intentions.**
 
 I am particularly interested in the following topics:
 * Human AI Collaboration, e.g. Creativity Support Systems
-* Trust and Explainable AI
-* Ethical Alignment
+* Moral Alignment of LLMs
 * Generative Models, e.g. Diffusion Models
+* Trust and Explainable AI
 * Intelligent Speech Interaction
 
 <!-- **I am seeking PhD positions in the HCI/CS field starting in fall 2025!** -->
@@ -46,7 +46,7 @@ Experience
 <!-- * Research Intern, Human-Computer Interaction Institute, Carnegie Mellon University, May 2024 - Present -->
 * Research Intern, [Pervasive Interaction Lab](https://pi.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University, March 2022 - Present
 * Undergraduate of the Tsien Engineering Excellence Program (TEEP), Tsinghua University, September 2021 - July 2025
-  * GPA: 3.82/4.00
+  * GPA: 3.84/4.00
   <!-- * Major Ranking: 9/28, top 30% (eligible for recommendation for postgraduate studies) -->
 
 English Level
@@ -58,7 +58,6 @@ Honors and Awards
 * “Tsinghua Scholar Talent Program” Scholarship, 2022, 2023
 * “Excellence in Science and Technology Innovation” University-level Scholarship, 2022, 2023
 * Technical Leader of the “AI Research Project on Image Generation” under the Future Scientists and Information
-* Technologists Interest Group, 2023
 * Selected for the Second Phase of the Xingjian College “HeYe Plan”, 2023
 * Second Prize in the Beijing Division of the National College Students’ Mathematical Modeling Contest 2022 (as team leader), 2022
 * “WuXing Cup” Third Prize and Academic New Star Award at Xingjian College, 2022
