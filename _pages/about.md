@@ -8,21 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a junior undergraduate of the Tsien Engineering Excellence Program (TEEP) at Tsinghua University.
-Currently, I am fortunate to be advised by Professor [Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/), Professor Weinan Shi, and Professor [Yuanchun Shi](https://www.cs.tsinghua.edu.cn/csen/info/1306/4332.htm) at [Pervasive Interaction Lab](https://pi.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University. 
-<!-- I am also honored to be advised by Professor [Hong Shen](https://www.andrew.cmu.edu/user/hongs/) in the Human-Computer Interaction Institute at Carnegie Mellon University. -->
+Hi! I am a senior undergraduate of the Tsien Engineering Excellence Program (TEEP) at Tsinghua University.
+I am honored to be advised by Professor [Hong Shen](https://www.andrew.cmu.edu/user/hongs/) in the Human-Computer Interaction Institute and Professor [Maarten Sap](https://maartensap.com/) in the Language Technologies Institute at Carnegie Mellon University, and Professor [Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/) at City University of Hong Kong.
+Previously, I was fortunate to be advised by Professor [Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/), Professor Weinan Shi at [Pervasive Interaction Lab](https://pi.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University. 
+
 
 My research interests lie in the area of Human-Computer Interaction (HCI). 
 **I develop systems that reshape how users *collaborate* with AIGC, and uncover interesting *insights*. I hope to utilize algorithms to achieve *alignment* between AI and human intentions.**
 
 I am particularly interested in the following topics:
 * Human AI Collaboration, e.g. Creativity Support Systems
-* Moral Alignment of LLMs
+* Explainable AI, e.g. Value Alignment of LLMs, TrustWorthy LLMs
 * Generative Models, e.g. Diffusion Models
-* Trust and Explainable AI
 * Intelligent Speech Interaction
 
-<!-- **I am seeking PhD positions in the HCI/CS field starting in fall 2025!** -->
 
 Contact: fxz21@mails.tsinghua.edu.cn
 
