@@ -14,7 +14,7 @@ Previously, I was fortunate to be advised by Professor [Chun Yu](https://pi.cs.t
 
 
 My research interests lie in the area of Human-Computer Interaction (HCI). 
-**I develop systems to reshape user *collaboration* and *communication* with LLM-based chatbots, and uncover interesting *insights*. I hope to utilize algorithms to achieve *human-AI alignment*, particularly focusing on values and intentions.**
+I develop systems to reshape user *collaboration* and *communication* with LLM-based chatbots, and uncover interesting *insights*. I hope to utilize algorithms to achieve *human-AI alignment*, particularly focusing on values and intentions.
 
 I am particularly interested in the following topics:
 * Human AI Collaboration, e.g. Creativity Support Systems
