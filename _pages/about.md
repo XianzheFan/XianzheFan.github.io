@@ -31,23 +31,25 @@ Contact: fxz21@mails.tsinghua.edu.cn
 
 Publications / Preprints
 ======
-<!-- * **Xianzhe Fan**, Zihan Wu, Chun Yu, Fenggui Rao, Weinan Shi, and Teng Tu. 2024. **ContextCam: Bridging Context Awareness with Creative Human-AI Image Co-Creation.** In Proceedings of the CHI Conference on Human Factors in Computing Systems *(CHI ’24)*, May 11–16, 2024, Honolulu, HI, USA. ACM, New York, NY, USA, 17 pages. [Website](https://dl.acm.org/doi/full/10.1145/3613904.3642129)
-[Paper](https://xianzhefan.github.io/files/chi24-240.pdf)
-[Video Preview](https://xianzhefan.github.io/files/chi24a-sub2702-cam-i21.mp4) -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 0px;">
   <img src="https://xianzhefan.github.io/images/contextcam.png" alt="paper image" style="width: 300px; margin-right: 20px; margin-top: 0px;">
   <div>
-    <p><strong>Xianzhe Fan</strong>, Zihan Wu, Chun Yu, Fenggui Rao, Weinan Shi, and Teng Tu. 2024. <strong>ContextCam: Bridging Context Awareness with Creative Human-AI Image Co-Creation.</strong> In Proceedings of the CHI Conference on Human Factors in Computing Systems <em>(CHI ’24)</em>, May 11–16, 2024, Honolulu, HI, USA. ACM, New York, NY, USA, 17 pages. <a href="https://dl.acm.org/doi/full/10.1145/3613904.3642129">Website</a> <a href="https://xianzhefan.github.io/files/chi24-240.pdf">Paper</a> <a href="https://xianzhefan.github.io/files/chi24a-sub2702-cam-i21.mp4">Video Preview</a></p>
+    <p><strong>Xianzhe Fan</strong>, Zihan Wu, Chun Yu, Fenggui Rao, Weinan Shi, and Teng Tu. 2024. <strong>ContextCam: Bridging Context Awareness with Creative Human-AI Image Co-Creation.</strong> In Proceedings of the CHI Conference on Human Factors in Computing Systems <em>(CHI ’24)</em>, May 11–16, 2024, Honolulu, HI, USA. ACM, New York, NY, USA, 17 pages. <a href="https://dl.acm.org/doi/full/10.1145/3613904.3642129">Paper</a> <a href="https://xianzhefan.github.io/files/chi24a-sub2702-cam-i21.mp4">Video Preview</a></p>
+  </div>
+</div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 0px;">
+  <img src="https://xianzhefan.github.io/images/user_driven.png" alt="paper image" style="width: 300px; margin-right: 20px; margin-top: 0px;">
+  <div>
+    <p><strong>Xianzhe Fan</strong>, Qing Xiao, Xuhui Zhou, Jiaxin Pei, Maarten Sap, Zhicong Lu, and Hong Shen. 2024. <strong>User-Driven Value Alignment: Understanding Users' Perceptions and Strategies for Addressing Biased and Discriminatory Statements in AI Companions.</strong> arXiv preprint arXiv:2409.00862. <a href="https://arxiv.org/abs/2409.00862">Paper</a></p>
   </div>
 </div>
 
 Experience
 ======
-<!-- * Research Intern, Human-Computer Interaction Institute, Carnegie Mellon University, May 2024 - Present -->
+* Research Intern, Carnegie Mellon University, May 2024 - Present
 * Research Intern, [Pervasive Interaction Lab](https://pi.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University, March 2022 - Present
 * Undergraduate of the Tsien Engineering Excellence Program (TEEP), Tsinghua University, September 2021 - July 2025
   * GPA: 3.84/4.00
-  <!-- * Major Ranking: 9/28, top 30% (eligible for recommendation for postgraduate studies) -->
 
 English Level
 ======
