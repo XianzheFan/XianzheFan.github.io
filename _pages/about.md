@@ -18,7 +18,7 @@ My research interests lie in the area of Human-Computer Interaction (HCI).
 
 I am particularly interested in the following topics:
 * Human AI Collaboration, e.g. Creativity Support Systems
-* Explainable AI, e.g. Value Alignment of LLMs, TrustWorthy LLMs
+* Responsible AI, e.g. Value Alignment of LLMs, TrustWorthy LLMs
 * Generative Models, e.g. Diffusion Models
 * Intelligent Speech Interaction
 
