@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xianzhe Fan"
 title_separator          : "-"
 name                     : &name "Xianzhe Fan"
-description              : &description "Junior Undergraduate at Tsinghua University"
+description              : &description "Senior Undergraduate at Tsinghua University"
 url                      : https://xianzhefan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xianzhefan.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xianzhe Fan 范娴喆"
   avatar           : "fxz.png"
-  bio              : "Junior Undergraduate at Tsinghua University"
+  bio              : "Senior Undergraduate at Tsinghua University"
   location         : "Beijing, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
