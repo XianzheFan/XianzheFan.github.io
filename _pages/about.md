@@ -40,9 +40,16 @@ Publications / Preprints
 <div style="display: flex; align-items: flex-start; margin-bottom: 0px;">
   <img src="https://xianzhefan.github.io/images/user_driven.png" alt="paper image" style="width: 300px; margin-right: 20px; margin-top: 0px;">
   <div>
+    <p><strong>Xianzhe Fan</strong>, Qing Xiao, Xuhui Zhou, Yuran Su, Zhicong Lu, Maarten Sap, and Hong Shen. 2024. <strong>[Title Redacted for Blind Review]</strong> Under Review.</p>
+  </div>
+</div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 0px;">
+  <img src="https://xianzhefan.github.io/images/user_driven.png" alt="paper image" style="width: 300px; margin-right: 20px; margin-top: 0px;">
+  <div>
     <p><strong>Xianzhe Fan</strong>, Qing Xiao, Xuhui Zhou, Jiaxin Pei, Maarten Sap, Zhicong Lu, and Hong Shen. 2024. <strong>User-Driven Value Alignment: Understanding Users' Perceptions and Strategies for Addressing Biased and Discriminatory Statements in AI Companions.</strong> arXiv preprint arXiv:2409.00862. <a href="https://arxiv.org/abs/2409.00862">Paper</a></p>
   </div>
 </div>
+
 
 Experience
 ======
