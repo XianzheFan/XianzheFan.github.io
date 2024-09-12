@@ -54,7 +54,7 @@ Publications / Preprints
 Experience
 ======
 * Research Intern, Carnegie Mellon University, May 2024 - Present
-* Research Intern, [Pervasive Interaction Lab](https://pi.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University, March 2022 - Present
+* Research Intern, [Pervasive Interaction Lab](https://pi.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University, March 2022 - July 2024
 * Undergraduate of the Tsien Engineering Excellence Program (TEEP), Tsinghua University, September 2021 - July 2025
   * GPA: 3.84/4.00
 
