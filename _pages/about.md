@@ -13,7 +13,7 @@ I am honored to be advised by Professor [Hong Shen](https://www.andrew.cmu.edu/u
 Previously, I was fortunate to be advised by Professor [Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/), Professor Weinan Shi at [Pervasive Interaction Lab](https://pi.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University. 
 
 
-My research interests lie in Human-Computer Interaction (HCI). 
+My research interests lie in Human-Centered AI and Computer Vision. 
 I develop systems to reshape user *collaboration* and *communication* with LLM-based chatbots, uncovering interesting *insights*. I hope to utilize algorithms to achieve *human-AI alignment*, particularly focusing on values and intentions.
 
 I am particularly interested in the following topics:
