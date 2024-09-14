@@ -35,16 +35,21 @@ Publications / Preprints
 <div style="display: flex; align-items: flex-start; margin-bottom: 0px;">
   <img src="https://xianzhefan.github.io/images/under_review.png" alt="paper image" style="width: 300px; margin-right: 20px; margin-top: 0px;">
   <div>
-    <p><strong>Xianzhe Fan</strong>, Qing Xiao, Xuhui Zhou, Yuran Su, Zhicong Lu, Maarten Sap, and Hong Shen. 2024. <strong>[Title Redacted for Blind Review]</strong> Under Review.</p>
+    <p><strong>Xianzhe Fan</strong>, Qing Xiao, Xuhui Zhou, Yuran Su, Zhicong Lu, Maarten Sap, and Hong Shen. 2024. <strong>Minion: A Technology Probe for Resolving Value Conflicts through Expert-Driven and User-Driven Strategies in AI Companion Applications.</strong> Under Review for CHI ’25.</p>
   </div>
 </div>
 <div style="display: flex; align-items: flex-start; margin-bottom: 0px;">
   <img src="https://xianzhefan.github.io/images/user_driven.png" alt="paper image" style="width: 300px; margin-right: 20px; margin-top: 0px;">
   <div>
-    <p><strong>Xianzhe Fan</strong>, Qing Xiao, Xuhui Zhou, Jiaxin Pei, Maarten Sap, Zhicong Lu, and Hong Shen. 2024. <strong>User-Driven Value Alignment: Understanding Users' Perceptions and Strategies for Addressing Biased and Discriminatory Statements in AI Companions.</strong> arXiv preprint arXiv:2409.00862. <a href="https://arxiv.org/abs/2409.00862">Paper</a></p>
+    <p><strong>Xianzhe Fan</strong>, Qing Xiao, Xuhui Zhou, Jiaxin Pei, Maarten Sap, Zhicong Lu, and Hong Shen. 2024. <strong>User-Driven Value Alignment: Understanding Users' Perceptions and Strategies for Addressing Biased and Discriminatory Statements in AI Companions.</strong> Under Review for CHI ’25. <a href="https://arxiv.org/abs/2409.00862">Paper</a></p>
   </div>
 </div>
-
+<div style="display: flex; align-items: flex-start; margin-bottom: 0px;">
+  <img src="https://xianzhefan.github.io/images/under_review.png" alt="paper image" style="width: 300px; margin-right: 20px; margin-top: 0px;">
+  <div>
+    <p>Qing Xiao, <strong>Xianzhe Fan</strong>, Felix M. Simon, Bingbing Zhang, and Motahhare Eslami. 2024. <strong>User-Driven Value Alignment: Understanding Users' Perceptions and Strategies for Addressing Biased and Discriminatory Statements in AI Companions.</strong> Under Review for CHI ’25. </p>
+  </div>
+</div>
 
 Experience
 ======
