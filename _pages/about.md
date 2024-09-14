@@ -45,7 +45,7 @@ Publications / Preprints
   </div>
 </div>
 <div style="display: flex; align-items: flex-start; margin-bottom: 0px;">
-  <img src="https://xianzhefan.github.io/images/under_review.png" alt="paper image" style="width: 300px; margin-right: 20px; margin-top: 0px;">
+  <img src="https://xianzhefan.github.io/images/news1.png" alt="paper image" style="width: 300px; margin-right: 20px; margin-top: 0px;">
   <div>
     <p>Qing Xiao, <strong>Xianzhe Fan</strong>, Felix M. Simon, Bingbing Zhang, and Motahhare Eslami. 2024. <strong>“It Might be Technically Impressive, But It’s Practically Useless to Us”:  Practices, Challenges, and Opportunities for Cross-Functional Collaboration around AI within the News Industry.</strong> Under Review for CHI ’25. </p>
   </div>
