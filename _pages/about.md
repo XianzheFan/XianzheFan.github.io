@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a senior undergraduate of the Tsien Engineering Excellence Program (TEEP) at Tsinghua University.
+Hi! I am a senior undergraduate of Tsien Excellence in Engineering Program ([TEEP](http://www.teep.cnmm.tsinghua.edu.cn/teepen/)) at Tsinghua University.
 I am honored to be advised by Professor [Hong Shen](https://www.andrew.cmu.edu/user/hongs/) in the Human-Computer Interaction Institute and Professor [Maarten Sap](https://maartensap.com/) in the Language Technologies Institute at Carnegie Mellon University, and Professor [Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/) at City University of Hong Kong.
 Previously, I was fortunate to be advised by Professor [Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/), Professor Weinan Shi at [Pervasive Interaction Lab](https://pi.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University. 
 
