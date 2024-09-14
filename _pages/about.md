@@ -19,12 +19,12 @@ I develop systems to reshape user *collaboration* and *communication* with LLM-b
 I am particularly interested in the following topics:
 * Human-AI Interaction, e.g., Creativity Support Systems, AI Companions, Context-Aware Systems
 * Responsible AI & Social Computing, e.g., Value Alignment, Trustworthy LLMs
-* Generative Models, e.g., Multimodal Large Language Models (MLLMs), Diffusion Models
+* Vision Models, e.g., Large Vision-and-Language Models (LVLMs), Diffusion Models
 * Intelligent Speech Interaction
 
 [Download CV](https://xianzhefan.github.io/files/CV.pdf)
 
-Publications / Preprints
+Publications / Preprints (First/Second Author)
 ======
 <div style="display: flex; align-items: flex-start; margin-bottom: 0px;">
   <img src="https://xianzhefan.github.io/images/contextcam.png" alt="paper image" style="width: 300px; margin-right: 20px; margin-top: 0px;">
