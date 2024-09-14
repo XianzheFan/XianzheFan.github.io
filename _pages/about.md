@@ -17,10 +17,9 @@ My research interests lie in the area of Human-Computer Interaction (HCI).
 I develop systems to reshape user *collaboration* and *communication* with LLM-based chatbots, and uncover interesting *insights*. I hope to utilize algorithms to achieve *human-AI alignment*, particularly focusing on values and intentions.
 
 I am particularly interested in the following topics:
-* Human AI Collaboration, e.g. Creativity Support Systems
-* Responsible AI, e.g. Value Alignment of LLMs, TrustWorthy LLMs
-* AI Companions
-* Generative Models, e.g. Diffusion Models
+* Human AI Interaction, e.g. Creativity Support Systems, AI Companions, Context-Aware Systems
+* Responsible AI & Social Computing, e.g. Value Alignment, Trustworthy LLMs
+* Generative Models, e.g. Multimodal Large Language Models (MLLMs), Diffusion Models
 * Intelligent Speech Interaction
 
 
