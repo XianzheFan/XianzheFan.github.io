@@ -17,16 +17,12 @@ My research interests lie in the area of Human-Computer Interaction (HCI).
 I develop systems to reshape user *collaboration* and *communication* with LLM-based chatbots, and uncover interesting *insights*. I hope to utilize algorithms to achieve *human-AI alignment*, particularly focusing on values and intentions.
 
 I am particularly interested in the following topics:
-* Human AI Interaction, e.g. Creativity Support Systems, AI Companions, Context-Aware Systems
+* Human-AI Interaction, e.g. Creativity Support Systems, AI Companions, Context-Aware Systems
 * Responsible AI & Social Computing, e.g. Value Alignment, Trustworthy LLMs
 * Generative Models, e.g. Multimodal Large Language Models (MLLMs), Diffusion Models
 * Intelligent Speech Interaction
 
-
-Contact: fxz21@mails.tsinghua.edu.cn
-
 [Download CV](https://xianzhefan.github.io/files/CV.pdf)
-
 
 Publications / Preprints
 ======
