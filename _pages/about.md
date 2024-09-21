@@ -9,18 +9,17 @@ redirect_from:
 ---
 
 Hi! I am a senior undergraduate in the Tsien Excellence in Engineering Program (TEEP) at Tsinghua University.
-I am honored to be advised by Professor [Hong Shen](https://www.andrew.cmu.edu/user/hongs/) at the Human-Computer Interaction Institute and Professor [Maarten Sap](https://maartensap.com/) at the Language Technologies Institute at Carnegie Mellon University, as well as Professor [Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/) at City University of Hong Kong.
+I am honored to be advised by Professor [Hong Shen](https://www.andrew.cmu.edu/user/hongs/), Professor [Haiyi Zhu](https://haiyizhu.com/) at the Human-Computer Interaction Institute and Professor [Maarten Sap](https://maartensap.com/) at the Language Technologies Institute at Carnegie Mellon University, as well as Professor [Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/) at City University of Hong Kong.
 Previously, I was fortunate to be advised by Professor [Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/), Professor Weinan Shi at [Pervasive Interaction Lab](https://pi.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University. 
 
 
-My research interests lie in Human-Centered AI and Computer Vision. 
+My research interests lie in Human-Centered AI. 
 I develop systems to reshape user *collaboration* and *communication* with LLM-based chatbots, uncovering interesting *insights*. I hope to utilize algorithms to achieve *human-AI alignment*, particularly focusing on values and intentions.
 
 I am particularly interested in the following topics:
-* Human-AI Interaction, e.g., Creativity Support Systems, AI Companions, Context-Aware Systems
-* Responsible AI & Social Computing, e.g., Value Alignment, Trustworthy LLMs
-* Vision Models, e.g., Large Vision-and-Language Models (LVLMs), Diffusion Models
-* Intelligent Speech Interaction
+* Human-AI Interaction, e.g., Creativity Support Systems, AI Companions, Context-Aware Systems, Intelligent Speech Interaction
+* Social Computing & Responsible AI, e.g., Value Alignment, Social Bias, Trustworthy & Explainable AI
+* Multimodal Models, e.g., Large Vision-and-Language Models (LVLMs), Diffusion Models
 
 [Download CV](https://xianzhefan.github.io/files/CV.pdf)
 
@@ -53,7 +52,7 @@ Publications / Preprints (First/Second Author)
 
 Experience
 ======
-* Research Intern, Carnegie Mellon University, May 2024 - Present
+* Research Intern, School of Computer Science, Carnegie Mellon University, May 2024 - Present
 * Research Intern, [Pervasive Interaction Lab](https://pi.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University, March 2022 - July 2024
 * Undergraduate of Tsien Excellence in Engineering Program (TEEP), Tsinghua University, September 2021 - July 2025
   * GPA: 3.84/4.00
