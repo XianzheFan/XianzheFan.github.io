@@ -64,14 +64,3 @@ TOEFL 106
 Academic Service
 ======
 Conference Reviewer, MobileHCI 2024
-
-Honors and Awards
-======
-* “Tsinghua Scholar Talent Program” Scholarship, 2021, 2022, 2023
-* “Excellence in Science and Technology Innovation” University-level Scholarship, 2022, 2023
-* Technical Leader of the “AI Research Project on Image Generation” under the Future Scientists and Information
-* Selected for the “HeYe Plan”, 2023
-* Second Prize in the Beijing Division of the National College Students’ Mathematical Modeling Contest 2022 (as team leader), 2022
-* “WuXing Cup” Third Prize and Academic New Star Award, 2022
-* First Prize in the 38th National College Students’ Physics Competition, 2021
-* First Prize at the Provincial Level in the 37th National High School Students’ Physics Competition, 2020
