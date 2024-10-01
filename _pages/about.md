@@ -17,9 +17,9 @@ My research interests lie in Human-Centered AI.
 I develop systems to reshape user *collaboration* and *communication* with LLM-based chatbots, uncovering interesting *insights*. I hope to utilize algorithms to achieve *human-AI alignment*, particularly focusing on values and intentions.
 
 I am particularly interested in the following topics:
-* Human-AI Interaction, e.g., Creativity Support Systems, AI Companions, Context-Aware Systems, Intelligent Speech Interaction
-* Social Computing & Responsible AI, e.g., Value Alignment, Social Bias, Trustworthy & Explainable AI
-* Multimodal Models, e.g., Large Vision-and-Language Models (LVLMs), Diffusion Models
+* Human-AI Interaction & Ubiquitous Computing: Creativity Support Systems, Context-Aware Systems, LLM-Based Multi-Agent Systems, Retrieval-Augmented Generation Systems, Speech Recognition and Noise Reduction, Robotic Process Automation
+* Social Computing & Responsible AI: Value Alignment & Social Bias, Trustworthy & Explainable AI
+* Multimodal Models: Large Vision-and-Language Models, Diffusion Models
 
 [Download CV](https://xianzhefan.github.io/files/CV.pdf)
 
