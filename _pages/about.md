@@ -63,6 +63,6 @@ TOEFL 106
 
 Academic Service
 ======
-Conference Reviewer, CHI 2025
+* Conference Reviewer, CHI 2025
 
-Conference Reviewer, MobileHCI 2024
+* Conference Reviewer, MobileHCI 2024
