@@ -8,22 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a senior undergraduate in the Tsien Excellence in Engineering Program (TEEP) at Tsinghua University.
+Hi!😊 I am a senior undergraduate in the Tsien Excellence in Engineering Program (TEEP) at Tsinghua University.
 I am honored to be advised by Professor [Hong Shen](https://www.andrew.cmu.edu/user/hongs/), Professor [Haiyi Zhu](https://haiyizhu.com/) at the Human-Computer Interaction Institute and Professor [Maarten Sap](https://maartensap.com/) at the Language Technologies Institute at Carnegie Mellon University, as well as Professor [Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/) at City University of Hong Kong.
 Previously, I was fortunate to be advised by Professor [Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/), Professor Weinan Shi at [Pervasive Interaction Lab](https://pi.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University. 
 
+My research interests lie in the intersection of Human-Computer Interaction (HCI) and Artificial Intelligence (AI). I develop computing platforms based on large language models (LLMs) and multimodal models aimed at reshaping the ways users collaborate and interact with AI, such as in co-creation and parasocial interactions, while uncovering intriguing insights. I focus on the application of algorithms for human-AI alignment, particularly in intent and value alignment, and explore AI's potential impact in fields like artistic creation, social interaction, algorithmic justice, and journalism. I develop context-aware mobile computing platforms and created intelligent, efficient, human-centered sensing systems.
 
-My research interests lie in Human-Centered AI. 
-I develop systems to reshape user *collaboration* and *communication* with LLM-based chatbots, uncovering interesting *insights*. I hope to utilize algorithms to achieve *human-AI alignment*, particularly focusing on values and intentions.
-
-I am particularly interested in the following topics:
+Past research topics:
 * Human-AI Interaction & Ubiquitous Computing: Creativity Support Systems, Context-Aware Systems, LLM-Based Multi-Agent Systems, Retrieval-Augmented Generation Systems, Speech Recognition and Noise Reduction, Robotic Process Automation
 * Social Computing & Responsible AI: Value Alignment & Social Bias, Trustworthy & Explainable AI
 * Multimodal Models: Large Vision-and-Language Models, Diffusion Models
 
 [Download CV](https://xianzhefan.github.io/files/CV.pdf)
 
-Publications / Preprints (First/Second Author)
+Publications/Preprints (First/Second Author)
 ======
 <div style="display: flex; align-items: flex-start; margin-bottom: 0px;">
   <img src="https://xianzhefan.github.io/images/contextcam.png" alt="paper image" style="width: 300px; margin-right: 20px; margin-top: 0px;">
@@ -32,7 +30,7 @@ Publications / Preprints (First/Second Author)
   </div>
 </div>
 <div style="display: flex; align-items: flex-start; margin-bottom: 0px;">
-  <img src="https://xianzhefan.github.io/images/under_review.png" alt="paper image" style="width: 300px; margin-right: 20px; margin-top: 0px;">
+  <img src="https://xianzhefan.github.io/images/minion.png" alt="paper image" style="width: 300px; margin-right: 20px; margin-top: 0px;">
   <div>
     <p><strong>Xianzhe Fan</strong>, Qing Xiao, Xuhui Zhou, Yuran Su, Zhicong Lu, Maarten Sap, and Hong Shen. 2024. <strong>Minion: A Technology Probe for Resolving Value Conflicts through Expert-Driven and User-Driven Strategies in AI Companion Applications.</strong> Under Review for CHI ’25.</p>
   </div>
@@ -40,7 +38,7 @@ Publications / Preprints (First/Second Author)
 <div style="display: flex; align-items: flex-start; margin-bottom: 0px;">
   <img src="https://xianzhefan.github.io/images/user_driven.png" alt="paper image" style="width: 300px; margin-right: 20px; margin-top: 0px;">
   <div>
-    <p><strong>Xianzhe Fan</strong>, Qing Xiao, Xuhui Zhou, Jiaxin Pei, Maarten Sap, Zhicong Lu, and Hong Shen. 2024. <strong>User-Driven Value Alignment: Understanding Users' Perceptions and Strategies for Addressing Biased and Discriminatory Statements in AI Companions.</strong> Under Review for CHI ’25. <a href="https://arxiv.org/abs/2409.00862">Paper</a></p>
+    <p><strong>Xianzhe Fan</strong>, Qing Xiao, Xuhui Zhou, Jiaxin Pei, Maarten Sap, Zhicong Lu, and Hong Shen. 2024. <strong>User-Driven Value Alignment: Understanding Users' Perceptions and Strategies for Addressing Biased and Discriminatory Statements in AI Companions.</strong> Under Review for CHI ’25.</p>
   </div>
 </div>
 <div style="display: flex; align-items: flex-start; margin-bottom: 0px;">
@@ -66,3 +64,6 @@ Academic Service
 * Conference Reviewer, CHI 2025
 
 * Conference Reviewer, MobileHCI 2024
+
+
+Other Projects
