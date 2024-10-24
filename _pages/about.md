@@ -33,6 +33,7 @@ Publications/Preprints (First/Second Author)
   <img src="https://xianzhefan.github.io/images/minion.png" alt="paper image" style="width: 300px; margin-right: 20px; margin-top: 0px;">
   <div>
     <p><strong>Xianzhe Fan</strong>, Qing Xiao, Xuhui Zhou, Yuran Su, Zhicong Lu, Maarten Sap, and Hong Shen. 2024. <strong>Minion: A Technology Probe for Resolving Value Conflicts through Expert-Driven and User-Driven Strategies in AI Companion Applications.</strong> Under Review for CHI ’25.</p>
+    <p></p>
   </div>
 </div>
 <div style="display: flex; align-items: flex-start; margin-bottom: 0px;">
